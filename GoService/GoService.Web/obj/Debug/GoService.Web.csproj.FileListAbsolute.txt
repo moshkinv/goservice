@@ -24,3 +24,29 @@ c:\users\vmoshkin\documents\visual studio 2013\Projects\GoService.Web\GoService.
 c:\users\vmoshkin\documents\visual studio 2013\Projects\GoService.Web\GoService.Web\obj\Debug\GoService.Web.csprojResolveAssemblyReference.cache
 c:\users\vmoshkin\documents\visual studio 2013\Projects\GoService.Web\GoService.Web\obj\Debug\GoService.Web.dll
 c:\users\vmoshkin\documents\visual studio 2013\Projects\GoService.Web\GoService.Web\obj\Debug\GoService.Web.pdb
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\GoService.Web.dll.config
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\GoService.Web.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\GoService.Web.pdb
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\Antlr3.Runtime.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\EntityFramework.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\Newtonsoft.Json.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\System.Web.Mvc.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\System.Web.Optimization.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\System.Web.Providers.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\System.Web.Razor.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\System.Web.WebPages.Deployment.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\System.Web.WebPages.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\System.Web.WebPages.Razor.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\WebGrease.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\EntityFramework.xml
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\Newtonsoft.Json.xml
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\System.Web.Mvc.xml
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\System.Web.Razor.xml
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\System.Web.WebPages.xml
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\System.Web.WebPages.Deployment.xml
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\bin\System.Web.WebPages.Razor.xml
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\obj\Debug\GoService.Web.csprojResolveAssemblyReference.cache
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\obj\Debug\GoService.Web.dll
+C:\moshkin_files\projects_files\goservice\GoService\GoService.Web\obj\Debug\GoService.Web.pdb
